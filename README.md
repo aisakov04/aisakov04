@@ -1,4 +1,4 @@
-Hi, I’m @AnastasiaIsakov04.
+Hi, I’m Anastasia Isakov.
 I'm a freshman at the University of Massachusetts Amherst studying Computer Science with a secondary major in Math.
 I'm currently learning Java and Python.
 Contact me at aisakov@umass.edu.
