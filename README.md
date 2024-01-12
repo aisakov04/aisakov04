@@ -1,6 +1,6 @@
 Hi, I’m Anastasia Isakov.
-I'm a freshman at the University of Massachusetts Amherst studying Computer Science with a secondary major in Math.
-I'm currently learning Java and Python.
+I'm a sophmore at the University of Massachusetts Amherst studying Computer Science with a minor in Math and Psychology.
+I'm currently learning Java, Python, Typescript, and C, with an interest in machine learning. 
 Contact me at aisakov@umass.edu.
 
 <!---
